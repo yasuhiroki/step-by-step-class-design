@@ -1,8 +1,5 @@
 # 参考文献
 
-CodeComplete
-
-
-
-
+- CodeComplete
+- 達人プログラマー
 
